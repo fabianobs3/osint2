@@ -1,0 +1,9 @@
+*.pyc
+.*.swp
+
+/docs/_*
+/docs/generated
+/.cache
+/.local
+/build
+/pySim.egg-info
